@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prajwalgautam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data Science
+- 🌱 I’m currently learning python 
 - 📫 How to reach me ... at twitter https://twitter.com/Prajwal_0Gtm
 
 <!---
