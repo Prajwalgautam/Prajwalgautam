@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-Sup, I'm Prajwal Gautam (aka Prashant Gautam)
+Sup, I'm Sangam Adhikari
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=sawongam&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="sawongam" />
 <br/>
@@ -15,8 +15,9 @@ Sup, I'm Prajwal Gautam (aka Prashant Gautam)
 <!-- About Me -->
 ### :man_technologist: &nbsp;About Me :
 I build with Flutter. I write blogs. I study CS. I never stop learning new things.
-- 🌱 Always learning - currently **Python / ML**
-- 💬 **Flutter, PHP, Java, Python, C, C++, C#** - let's talk code!
+- 🔭 Building Flutter Apps at **Pine Softwares**
+- 🌱 Always learning - currently **PHP and Laravel**
+- 💬 **Flutter, PHP, Java, Python** - let's talk code!
 - 🌎 Open to remote work opportunities
 - ⚡ When I'm not coding, you can find me jamming to music or catching movies
 
@@ -51,13 +52,13 @@ Never stop learning, never stop growing. Level up something new every day!
 ### 📈 GitHub Activity Graph:
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sawongam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sawongam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Prajwalgautam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Prajwalgautam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalgautam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalgautam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=default"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalgautam&theme=default"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalgautam&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
