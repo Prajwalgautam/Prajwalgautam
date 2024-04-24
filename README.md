@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-Sup, I'm Sangam Adhikari
+Sup, I'm Prajwal Gautam (aka Prashant Gautam)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=sawongam&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="sawongam" />
 <br/>
@@ -15,9 +15,8 @@ Sup, I'm Sangam Adhikari
 <!-- About Me -->
 ### :man_technologist: &nbsp;About Me :
 I build with Flutter. I write blogs. I study CS. I never stop learning new things.
-- 🔭 Building Flutter Apps at **Pine Softwares**
-- 🌱 Always learning - currently **PHP and Laravel**
-- 💬 **Flutter, PHP, Java, Python** - let's talk code!
+- 🌱 Always learning - currently **Python / ML**
+- 💬 **Flutter, PHP, Java, Python, C, C++, C#** - let's talk code!
 - 🌎 Open to remote work opportunities
 - ⚡ When I'm not coding, you can find me jamming to music or catching movies
 
