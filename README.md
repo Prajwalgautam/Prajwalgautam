@@ -49,16 +49,17 @@ Never stop learning, never stop growing. Level up something new every day!
 
 
 <!-- Activity Graph -->
+
 ### 📈 GitHub Activity Graph:
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sawongam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sawongam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Prajwalgautam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Prajwalgautam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalgautam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalgautam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=default"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongamm&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalgautam&theme=default"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalgautam&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Prajwalgautam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/Prajwalgautam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
