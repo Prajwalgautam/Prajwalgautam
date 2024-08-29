@@ -16,7 +16,7 @@ Sup, I'm Prajwal Gautam (aka Prashant Gautam)
 ### :man_technologist: &nbsp;About Me :
 I build with Python. I write blogs. I study Software Engineering in GCES. I never stop learning new things.
 - 🌱 Always learning - currently **Python**
-- 💬 **Flutter, PHP, Java, Python, C++, C, C#** - let's talk code!
+- 💬 **Java, PHP, Python, C++, C, C#** - let's talk code!
 - 🌎 Open to remote work opportunities
 - ⚡ When I'm not coding, you can find me jamming to music or catching movies
 
